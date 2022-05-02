@@ -1,0 +1,179 @@
+O cenário de Big Data
+
+Aula 1.1. Big Data: Coleta de dados massivos
+
+https://youtu.be/EO9WZywrIxQ
+
+Aula 1.2. Processamento distribuído 
+
+https://youtu.be/HYLhcKF_m80
+
+Aula 1.3.1. Ecossistema Haddop - parte 1
+
+https://youtu.be/JSWUp30b9Ps
+
+Aula 1.3.2. Ecossistema Hadoop - parte 2
+
+https://youtu.be/8xC9GGIzv3I
+
+
+Introdução ao Apache Spark
+
+Aula 2.1. O que é o Apache Spark?
+
+https://youtu.be/9FpQdyPMdoI
+
+Aula 2.2. Conceitos básicos de uma aplicação do Spark
+
+https://youtu.be/MhJ83jDwzlk
+
+Aula 2.3. Transformações, ações e Lazy Evaluation
+
+https://youtu.be/RwBKSa_g2N8
+
+Aula 2.4. Catalyst Optimizer e o Plano de Execução
+
+https://youtu.be/aanHPdZCgss
+
+Aula 2.5. Download e instalação do Apache Spark
+
+https://youtu.be/mYXkfc_igbw
+
+
+Manipulando dados com Spark - Parte I
+
+Aula 3.1. DataFrames e Datasets
+
+https://youtu.be/DAcTaTBZexU
+
+Aula 3.2. Tipos de dados no Spark
+
+https://youtu.be/mzeruzEZexU
+
+Aula 3.3. Schema e Criação de DataFrames
+
+https://youtu.be/RRncVOuYFQc
+
+Aula 3.4.1. Leitura e escrita de dados - Parte I
+
+https://youtu.be/4aoO4L83Goo
+
+Aula 3.4.2. Leitura e escrita de dados - Parte II
+
+https://youtu.be/D4MRp50DeCk
+
+Aula 3.5.1. Operações básicas com DataFrames - Parte I
+
+https://youtu.be/B2wwK_4SgbI
+
+Aula 3.5.2. Operações básicas com DataFrames - Parte II
+
+https://youtu.be/vhy1fNRYwes
+
+Aula 3.5.3. Operações básicas com DataFrames - Parte III
+
+https://youtu.be/0ZDCQvh87eI
+
+Aula 3.6. Trabalhando com diferentes tipos de dados
+
+https://youtu.be/hT2-ULBXmHM
+
+
+Manipulando dados com Spark - Parte II
+
+Aula 4.1. Agrupamento e Agregações
+
+https://youtu.be/WVS60Rpx53o
+
+Aula 4.2. Window Functions
+
+https://youtu.be/o5fpOFfk5C4
+
+Aula 4.3. Joins
+
+https://youtu.be/9tIsF6vomlY
+
+Aula 4.4. User Defined Functions (UDFs)
+
+https://youtu.be/Mzo-MiY_bEw
+
+
+Spark SQL
+
+Aula 5.1. Visão geral do Spark SQL
+
+https://youtu.be/ec7i-tw7VXY
+
+Aula 5.2. Databases e catalog 
+
+https://youtu.be/lZT4Wuo_s-A
+
+Aula 5.3. Criando tabelas e views
+
+https://youtu.be/4AdbHBP0_Pc
+
+Aula 5.4. Fazendo querys no Spark SQL
+
+https://youtu.be/N5NnNvpUoDI
+
+
+Otimizando Aplicações do Spark
+
+Aula 6.1. Como configurar e escalar o Spark
+
+https://youtu.be/5F7TQuB_y6I
+
+Aula 6.2. Persistência de dados na memória
+
+https://youtu.be/cAbvjp1PP48
+
+Aula 6.3. Estratégias de particionamento de dados
+
+https://youtu.be/1XF1_pRJmqk
+
+Aula 6.4. Reparticionando DataFrames
+
+https://youtu.be/V4IoM7Hm0gI
+
+Aula 6.5. Escolhendo o melhor tipo de Join
+
+https://youtu.be/iXHhpwN99Ag
+
+
+
+Deploy de Aplicações Spark
+
+Aula 7.1. Introdução e modos de execução
+
+https://youtu.be/Avo6Zq91wM4
+
+Aula 7.2. Desenvolvendo aplicações Spark
+
+https://youtu.be/wd4rjW8n5G4
+
+Aula 7.3. Executando o Spark em Clusters
+
+https://youtu.be/YSqqq96-sgI
+
+Aula 7.4 Exemplo prático: lançando uma aplicação localmente
+
+https://youtu.be/k0X2NREkGwo
+
+
+Spark na Nuvem
+
+Aula 8.1. Introdução ao Dataproc e ao GCS
+
+https://youtu.be/Om5t6CslQuc
+
+Aula 8.2. Criando um cluster no Dataproc
+
+https://youtu.be/gX3wwjqb46o
+
+Aula 8.3. Acessando dados do GCS
+
+https://youtu.be/qKNQEWhv_cA
+
+Aula 8.4. Submetendo aplicações GCS
+
+https://youtu.be/gvb4AoNAI2Q
